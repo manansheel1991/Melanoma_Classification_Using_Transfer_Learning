@@ -1,6 +1,6 @@
 # Melanoma Classification using Transfer Learning
 
-Classification of Skin lesions into 3 types of Skin diseases, including Melanoma, using Transfer Learning on the popular VGG16 Architecture. This project was introduced to me in the Udacity Deep Learning Nanodegree.
+Classification of Skin lesions into 3 types of Skin Cancers, including Melanoma, using Transfer Learning on the popular VGG16 Architecture. This project was introduced to me in the Udacity Deep Learning Nanodegree.
 
 ## Skin Cancer Diagnosis Problem
 
