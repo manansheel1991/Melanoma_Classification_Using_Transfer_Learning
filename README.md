@@ -11,7 +11,12 @@ Melanoma is the deadliest form of Skin Cancer. Melanoma is malignant, while Nevu
 ## Requirements
 
 The requirements to run the project are included in 'requirements.txt'.
+The dataset can be downloaded from [here](https://github.com/udacity/dermatologist-ai.git)
 
 ## Notebook
 
-All the code for this project is present in ''
+All the code for this project is present in 'Final_Tested_Melanoma_Classification_CNN.ipynb'. The code is explained with comments wherever necessary.
+
+## Results
+
+The model could achieve an accuracy of 68% on the test set.
