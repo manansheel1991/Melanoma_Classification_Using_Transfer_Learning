@@ -8,6 +8,10 @@ Melanoma is the deadliest form of Skin Cancer. Melanoma is malignant, while Nevu
 
 ![](skin-disease-classes.png)
 
+## In This Project
+
+In this project, transfer learning is used on the VGG16 Architecture, by replacing the last layer of VGG16 with a linear fully connected layer that has 3 outputs corresponding to the 3 classes of Skin Cancer. Only the classifier layers are then trained (while freezing the parameters from the features layers). 
+
 ## Requirements
 
 The requirements to run the project are included in 'requirements.txt'.
